@@ -9,7 +9,7 @@ A solution that uses Python to sort the poker hands and find the winner between 
 *Due to short timeframe, the solution doesn't include the case when two hands really tie. (i.e. two hands having exact same ranking and card values but different suits, e.g. hand 1: 7C 6C 5C 9D 9H vs. hand 2: 7S 6S 5S 9C 9S)*
 
 # Running
-This project requires Python 3 and a poker-hands data file.
+This project requires Python 3 and a poker-hands data file as input.
 
 For Linux: `cat poker-hands.txt | python3 poker_sort.py`
 
