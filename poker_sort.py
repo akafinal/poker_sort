@@ -1,4 +1,5 @@
 import sys
+
 def poker_sort():
     "Return how many hands each player wins"
     p1_win_count = 0 ; p2_win_count = 0
@@ -15,7 +16,7 @@ def poker_sort():
             print("Please check data file!")
             break
     print("Player 1: {0} \nPlayer 2: {1}".format(p1_win_count, p2_win_count))
-    return None 
+    return None
 
 def card_rank(hand):
     "Return a number showing the ranking of a hand"
