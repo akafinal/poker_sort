@@ -13,7 +13,7 @@ This project requires Python 3 and a poker-hands data file.
 
 For Linux: `cat poker-hands.txt | python3 poker_sort.py`
 
-For Windows PowerShell: `Get-Content .\poker_hands.txt | python .\pocker_sort.py`
+For Windows PowerShell: `Get-Content .\poker-hands.txt | python .\poker_sort.py`
 
 # Acknowledgements
 I'd like to thank Peter Norvig (https://www.linkedin.com/in/pnorvig/) with his excellent Design of Computer Programs course (https://classroom.udacity.com/courses/cs212) and Brian Caffey (https://briancaffey.github.io/2018/01/02/checking-poker-hands-with-python.html/) as two main materials that I learned from when solving this challenge.  
