@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folders
+C:\Users\baodo\Poker\code\poker_sort
